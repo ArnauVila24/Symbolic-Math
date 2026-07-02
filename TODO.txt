@@ -7,5 +7,5 @@
 [] Derivades
 [] Factibilitat de arbres no-binaris
 [] Simplificar arbres
- 
+[] 
 
