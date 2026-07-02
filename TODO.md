@@ -1,0 +1,11 @@
+[] Avaluar funcs
+[] Llegir formules
+- Mirar fer-ho recursivament(?) amb piles, regexps...
+- Intèrpret de RegExps fet a part podria ajudar
+[] Escriure formules de manera llegible
+[] Operacions complexes
+[] Derivades
+[] Factibilitat de arbres no-binaris
+[] Simplificar arbres
+ 
+
